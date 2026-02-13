@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Spotlight",
   "colors": {
-    "primary": "#ff7524",
-    "light": "#c94606",
-    "dark": "#ff8427"
+    "primary": "#000000",
+    "light": "#aeaeae",
+    "dark": "#222222"
   },
   "favicon": "/favicon.svg",
   "navigation": {
