@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "maple",
+  "theme": "palm",
   "name": "Spotlight",
   "colors": {
     "primary": "#000000",
@@ -88,7 +88,7 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:info@heyspotlight.com"
       }
     ],
     "primary": {
@@ -132,5 +132,14 @@
   },
   "background": {
     "decoration": "grid"
+  },
+  "errors": {
+    "404": {
+      "description": "404. This page went missing. Bruno is investigating (or writing cleaner code somewhere).",
+      "title": "Page not found"
+    }
+  },
+  "icons": {
+    "library": "fontawesome"
   }
 }
