@@ -7,20 +7,15 @@
     "light": "#bfbfbf",
     "dark": "#222222"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/images/ChatGPTImageFeb13,2026,11_40_38AM.png",
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
-        "groups": [
-          {
-            "group": "Getting started",
-            "pages": [
-              "index",
-              "quickstart",
-              "development"
-            ]
-          },
+        "tab": "Introduction",
+        "pages": [
+          "index",
+          "quickstart",
+          "development",
           {
             "group": "Customization",
             "pages": [
@@ -67,21 +62,7 @@
           }
         ]
       }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
-        }
-      ]
-    }
+    ]
   },
   "logo": "/images/ChatGPTImageFeb13,2026,11_40_38AM.png",
   "navbar": {
@@ -111,9 +92,11 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "x": "https://x.com/hey_spotlight",
+      "github": "https://github.com/heyspotlight",
+      "linkedin": "https://linkedin.com/company/heyspotlight",
+      "instagram": "https://instagram/heyspotlight",
+      "website": "https://spotlightnow.in"
     }
   },
   "appearance": {
@@ -141,5 +124,12 @@
   },
   "icons": {
     "library": "fontawesome"
-  }
+  },
+  "seo": {
+    "indexing": "all"
+  },
+  "styling": {
+    "codeblocks": "dark"
+  },
+  "description": "Experience the World, Differently."
 }
