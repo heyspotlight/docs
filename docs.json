@@ -1,10 +1,10 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
+  "theme": "maple",
   "name": "Spotlight",
   "colors": {
     "primary": "#000000",
-    "light": "#aeaeae",
+    "light": "#bfbfbf",
     "dark": "#222222"
   },
   "favicon": "/favicon.svg",
@@ -123,11 +123,14 @@
     "family": "Inter",
     "heading": {
       "family": "Inter",
-      "weight": 600
+      "weight": 700
     },
     "body": {
       "family": "Inter",
       "weight": 400
     }
+  },
+  "background": {
+    "decoration": "grid"
   }
 }
