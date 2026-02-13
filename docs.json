@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Spotlight",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#ff7524",
+    "light": "#c94606",
+    "dark": "#ff8427"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -83,10 +83,7 @@
       ]
     }
   },
-  "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
-  },
+  "logo": "/images/ChatGPTImageFeb13,2026,11_40_38AM.png",
   "navbar": {
     "links": [
       {
@@ -117,6 +114,20 @@
       "x": "https://x.com/mintlify",
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
+    }
+  },
+  "appearance": {
+    "default": "system"
+  },
+  "fonts": {
+    "family": "Inter",
+    "heading": {
+      "family": "Inter",
+      "weight": 600
+    },
+    "body": {
+      "family": "Inter",
+      "weight": 400
     }
   }
 }
