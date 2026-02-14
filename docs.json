@@ -3,7 +3,7 @@
   "theme": "willow",
   "name": "Spotlight",
   "colors": {
-    "primary": "#ff7300",
+    "primary": "#000000",
     "light": "#bfbfbf",
     "dark": "#222222"
   },
