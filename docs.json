@@ -118,12 +118,10 @@
     "family": "Inter",
     "format": "woff2",
     "heading": {
-      "family": "Inter",
-      "weight": 800
+      "family": "Inter"
     },
     "body": {
-      "family": "Inter",
-      "weight": 400
+      "family": "Inter"
     }
   },
   "background": {
