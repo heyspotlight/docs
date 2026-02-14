@@ -13,6 +13,7 @@
       {
         "tab": "Introduction",
         "pages": [
+          "welcome",
           "index",
           "quickstart",
           "development",
