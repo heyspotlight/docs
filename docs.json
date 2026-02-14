@@ -118,7 +118,7 @@
     "format": "woff2",
     "heading": {
       "family": "Inter",
-      "weight": 700
+      "weight": 800
     },
     "body": {
       "family": "Inter",
@@ -141,10 +141,14 @@
     "indexing": "all"
   },
   "styling": {
-    "codeblocks": "dark"
+    "codeblocks": "dark",
+    "eyebrows": "section"
   },
   "description": "Experience the World, Differently.",
   "search": {
-    "prompt": "Ask AI"
+    "prompt": "Search docs"
+  },
+  "interaction": {
+    "drilldown": true
   }
 }
