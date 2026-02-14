@@ -97,13 +97,25 @@
       "linkedin": "https://linkedin.com/company/heyspotlight",
       "instagram": "https://instagram/heyspotlight",
       "website": "https://spotlightnow.in"
-    }
+    },
+    "links": [
+      {
+        "header": "Research",
+        "items": [
+          {
+            "label": "White-paper",
+            "href": "https://spotlightnow.in"
+          }
+        ]
+      }
+    ]
   },
   "appearance": {
-    "default": "light"
+    "default": "dark"
   },
   "fonts": {
     "family": "Inter",
+    "format": "woff2",
     "heading": {
       "family": "Inter",
       "weight": 700
@@ -131,5 +143,8 @@
   "styling": {
     "codeblocks": "dark"
   },
-  "description": "Experience the World, Differently."
+  "description": "Experience the World, Differently.",
+  "search": {
+    "prompt": "Ask AI"
+  }
 }
