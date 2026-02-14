@@ -14,10 +14,11 @@
         "tab": "Introduction",
         "pages": [
           "development-copied-1",
-          "quickstart",
+          "development-copied-2",
           "development",
           {
-            "group": "Customization",
+            "group": "Quick start",
+            "icon": "rocket-launch",
             "pages": [
               "essentials/settings",
               "essentials/navigation"
