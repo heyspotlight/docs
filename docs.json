@@ -4,7 +4,7 @@
   "name": "Spotlight",
   "colors": {
     "primary": "#000000",
-    "light": "#8f8f8f",
+    "light": "#757575",
     "dark": "#222222"
   },
   "favicon": "/images/ChatGPTImageFeb13,2026,11_40_38AM.png",
@@ -116,7 +116,6 @@
   },
   "fonts": {
     "family": "Inter",
-    "format": "woff2",
     "heading": {
       "family": "Inter"
     },
