@@ -14,13 +14,12 @@
         "tab": "Introduction",
         "pages": [
           "welcome",
-          "how-it-works",
-          "plan-and-pricing",
           {
             "group": "Quick start",
             "icon": "rocket-launch",
             "pages": [
-              "essentials/settings",
+              "how-it-works",
+              "plan-and-pricing",
               "essentials/navigation"
             ]
           },
