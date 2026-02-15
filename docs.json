@@ -13,9 +13,9 @@
       {
         "tab": "Introduction",
         "pages": [
-          "development-copied-1",
-          "development-copied-2",
-          "development",
+          "welcome",
+          "how-it-works",
+          "plan-and-pricing",
           {
             "group": "Quick start",
             "icon": "rocket-launch",
