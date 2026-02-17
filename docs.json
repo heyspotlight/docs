@@ -101,10 +101,18 @@
     },
     "links": [
       {
-        "header": "Research",
+        "header": "Other resources",
         "items": [
           {
             "label": "White-paper",
+            "href": "https://spotlightnow.in"
+          },
+          {
+            "label": "Frequently Asked",
+            "href": "https://spotlightnow.in"
+          },
+          {
+            "label": "Contact form",
             "href": "https://spotlightnow.in"
           }
         ]
