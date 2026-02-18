@@ -18,26 +18,13 @@
             "group": "Quick start",
             "icon": "rocket-launch",
             "pages": [
-              "how-it-works",
-              "plan-and-pricing",
-              "essentials/navigation"
+              "how-it-works"
             ]
           },
           {
-            "group": "Writing content",
+            "group": "Careers",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
-            ]
-          },
-          {
-            "group": "AI tools",
-            "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
+              "ui-ux-intern"
             ]
           }
         ]
