@@ -123,5 +123,9 @@
   },
   "interaction": {
     "drilldown": true
+  },
+  "banner": {
+    "content": "Check live status",
+    "dismissible": true
   }
 }
