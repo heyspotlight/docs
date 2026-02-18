@@ -122,7 +122,7 @@
     "prompt": "Search docs"
   },
   "interaction": {
-    "drilldown": true
+    "drilldown": false
   },
   "banner": {
     "content": "All systems are operational 🟢 - status.spotlightnow.in",
