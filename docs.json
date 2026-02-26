@@ -18,16 +18,15 @@
             "group": "Quick start",
             "icon": "rocket-launch",
             "pages": [
-              "how-it-works",
-              "commmision-structure"
-            ]
-          },
-          {
-            "group": "Careers",
-            "pages": [
-              "ui-ux-intern"
+              "how-it-works"
             ]
           }
+        ]
+      },
+      {
+        "tab": "Partner",
+        "pages": [
+          "commmision-structure"
         ]
       }
     ]
