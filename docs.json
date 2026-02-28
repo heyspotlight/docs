@@ -13,14 +13,12 @@
       {
         "tab": "Home",
         "pages": [
-          "welcome"
+          "welcome",
+          "how-it-works"
         ]
       },
       {
-        "tab": "Partners",
-        "pages": [
-          "partner-and-commisssion"
-        ]
+        "tab": "Partners"
       }
     ]
   },
