@@ -13,7 +13,13 @@
       {
         "tab": "Home",
         "pages": [
-          "welcome-to-spotlight"
+          "welcome"
+        ]
+      },
+      {
+        "tab": "Partners",
+        "pages": [
+          "partner-and-commisssion"
         ]
       }
     ]
