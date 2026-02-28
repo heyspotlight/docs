@@ -13,8 +13,8 @@
       {
         "tab": "Home",
         "pages": [
-          "welcome",
-          "how-it-works"
+          "how-it-works",
+          "welcome"
         ]
       },
       {
