@@ -1,13 +1,13 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "maple",
-  "name": "Spotlight",
+  "name": "Vibe",
   "colors": {
     "primary": "#0b0b0b",
     "light": "#dbdbdb",
     "dark": "#222222"
   },
-  "favicon": "/images/ChatGPTImageFeb13,2026,11_40_38AM.png",
+  "favicon": "/images/Untitleddesign(2).png",
   "navigation": {
     "tabs": [
       {
@@ -25,7 +25,7 @@
       }
     ]
   },
-  "logo": "/images/ChatGPTImageFeb13,2026,11_40_38AM.png",
+  "logo": "/images/Untitleddesign(1).png",
   "navbar": {
     "links": [
       {
@@ -110,7 +110,7 @@
     "codeblocks": "dark",
     "eyebrows": "section"
   },
-  "description": "Experience the World, Differently.",
+  "description": "From plans to going out",
   "search": {
     "prompt": "Search docs"
   },
