@@ -28,7 +28,10 @@
       }
     ]
   },
-  "logo": "/images/Untitleddesign(1).png",
+  "logo": {
+    "light": "/images/Group(1).png",
+    "dark": "/images/Group.png"
+  },
   "navbar": {
     "links": [
       {
