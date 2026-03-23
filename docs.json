@@ -22,6 +22,22 @@
               "welcome-to-vibe",
               "overview-1"
             ]
+          },
+          {
+            "group": "Products",
+            "pages": [
+              "vibe-mobile",
+              "vibe-web-app",
+              "vibe-partner-app"
+            ]
+          },
+          {
+            "group": "Quick References",
+            "pages": [
+              "faq",
+              "glossary",
+              "support"
+            ]
           }
         ]
       },
