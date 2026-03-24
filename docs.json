@@ -4,8 +4,8 @@
   "name": "Vibe",
   "colors": {
     "primary": "#2EA1F2",
-    "light": "#E2F0FA",
-    "dark": "#E2F0FA"
+    "light": "#66bfff",
+    "dark": "#66bfff"
   },
   "favicon": {
     "light": "/images/Group(1).png",
