@@ -49,8 +49,17 @@
       },
       {
         "tab": "Partners",
-        "pages": [
-          "commission-structure"
+        "groups": [
+          {
+            "group": "Getting Started",
+            "pages": [
+              "commission-structure"
+            ]
+          },
+          {
+            "group": "API for POS",
+            "pages": []
+          }
         ]
       },
       {
