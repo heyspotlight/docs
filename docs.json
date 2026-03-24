@@ -144,7 +144,7 @@
     "decoration": "gradient",
     "color": {
       "light": "#ffffff",
-      "dark": "#101010"
+      "dark": "#212121"
     }
   },
   "errors": {
