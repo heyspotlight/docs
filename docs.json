@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Vibe",
   "colors": {
-    "primary": "#2EA1F2",
-    "light": "#48b3ff",
-    "dark": "#48b3ff"
+    "primary": "#76F87D",
+    "light": "#76F87D",
+    "dark": "#76F87D"
   },
   "favicon": {
     "light": "/images/Group(1).png",
